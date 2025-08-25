@@ -1,0 +1,15 @@
+/workspaces/c-sharp-facultad/bin/Debug/net8.0/c-sharp-facultad
+/workspaces/c-sharp-facultad/bin/Debug/net8.0/c-sharp-facultad.deps.json
+/workspaces/c-sharp-facultad/bin/Debug/net8.0/c-sharp-facultad.runtimeconfig.json
+/workspaces/c-sharp-facultad/bin/Debug/net8.0/c-sharp-facultad.dll
+/workspaces/c-sharp-facultad/bin/Debug/net8.0/c-sharp-facultad.pdb
+/workspaces/c-sharp-facultad/obj/Debug/net8.0/c-sharp-facultad.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/c-sharp-facultad/obj/Debug/net8.0/c-sharp-facultad.AssemblyInfoInputs.cache
+/workspaces/c-sharp-facultad/obj/Debug/net8.0/c-sharp-facultad.AssemblyInfo.cs
+/workspaces/c-sharp-facultad/obj/Debug/net8.0/c-sharp-facultad.csproj.CoreCompileInputs.cache
+/workspaces/c-sharp-facultad/obj/Debug/net8.0/c-sharp-facultad.sourcelink.json
+/workspaces/c-sharp-facultad/obj/Debug/net8.0/c-sharp-facultad.dll
+/workspaces/c-sharp-facultad/obj/Debug/net8.0/refint/c-sharp-facultad.dll
+/workspaces/c-sharp-facultad/obj/Debug/net8.0/c-sharp-facultad.pdb
+/workspaces/c-sharp-facultad/obj/Debug/net8.0/c-sharp-facultad.genruntimeconfig.cache
+/workspaces/c-sharp-facultad/obj/Debug/net8.0/ref/c-sharp-facultad.dll
