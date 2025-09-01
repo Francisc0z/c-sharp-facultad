@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("c-sharp-facultad")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b7df3076f257ac33a8c3a9ded6a6d2a7dd8cc11")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb1cee73af9986bffe21649393b4ae910ebf5c2b")]
 [assembly: System.Reflection.AssemblyProductAttribute("c-sharp-facultad")]
 [assembly: System.Reflection.AssemblyTitleAttribute("c-sharp-facultad")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
